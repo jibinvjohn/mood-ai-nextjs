@@ -8,7 +8,8 @@ export default function Home() {
         <h1 className="text-6xl mb-4">The best Journal App</h1>
         <p className="text-2xl text-white/60 mb-4">
           This is the best app for tracking your mood throughout your life. All
-          you have to do is be honest.
+          you have to do is be honest. This app uses AI to do sentiment
+          analysis.
         </p>
         <div>
           <Link href="/journal">
